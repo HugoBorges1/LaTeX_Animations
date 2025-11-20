@@ -56,6 +56,8 @@ Adicione o pacote no início do seu arquivo `.tex` (antes do `\begin{document}`)
 
 ### 3.2. Inserindo os frames no código
 
+Copie ou mova todos os frames gerados e ordenados pelo ECRG para o diretório desejado em seu projeto LaTeX.
+
 ```latex
 \begin{figure}[H]
     \centering
