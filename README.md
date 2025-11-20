@@ -20,7 +20,7 @@ Gere os frames individualmente, manualmente, da forma que desejar.
 
 ## 2. Processamento de Mídia (ECRG)
 
-Para preparar os arquivos para o LaTeX e para um repositório digital, utilize a ferramenta **ECRG** (Extrator, Compressor, Renomeador e GIFaker) incluída neste projeto (recomendado baixar o executável para utilizar, caso queira fazer alterações ou executar diretamente do código, o código fonte está em [ECRG fonte](https://github.com/HugoBorges1/LaTeX_Animations/blob/master/Extrator_Compressor_Renomeador_Gifmaker/ECRG.py)).
+Para preparar os arquivos para o LaTeX e para um repositório digital, utilize (baixe) a ferramenta **ECRG** (Extrator, Compressor, Renomeador e GIFaker) incluída neste projeto (recomendado baixar o executável para utilizar, caso queira fazer alterações ou executar diretamente do código, o código fonte está em [ECRG fonte](https://github.com/HugoBorges1/LaTeX_Animations/blob/master/Extrator_Compressor_Renomeador_Gifmaker/ECRG.py)).
 
 ### Fluxo de Utilização:
 
