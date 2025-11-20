@@ -11,7 +11,7 @@ O primeiro passo é obter a fonte visual da animação. Existem duas abordagens 
 ### A. Gravação de Tela
 Utilize um software de captura para gravar a simulação ou vídeo desejado.
 * **Recomendação:** [OBS Studio](https://obsproject.com/) (Open Broadcaster Software).
-* **Motivo:** É gratuito, *open source*, leve e permite configurar exatamente a área de captura e a taxa de quadros (FPS).
+* **Motivo:** É gratuito, *open source*, leve e permite configurar diversos parâmetros da gravação (resolução, bitrate, framereate, dentre outros).
 
 ### B. Criação Manual
 Gere os frames individualmente, manualmente, da forma que desejar.
@@ -157,4 +157,4 @@ git push -u origin main
 
 Após o upload dos arquivos, é importante referenciar o repositório digital na monografia ou tese, garantindo que qualquer leitor possa acessar as animações e materiais complementares.
 
-Você pode acessar o repósitório do meu TCC e entender como eu apresentei minhas animações: [Trabalho de consluão de curso](https://github.com/HugoBorges1/Trabalho_de_conclusao_de_curso)
+Você pode acessar o repósitório do meu TCC e entender como eu inseri minhas animações no arquivo de monografia e como eu referenciei elas no repositório: [Trabalho de consluão de curso](https://github.com/HugoBorges1/Trabalho_de_conclusao_de_curso)
